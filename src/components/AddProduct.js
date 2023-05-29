@@ -69,7 +69,6 @@ export const AddProduct = ({ price, name, src }) => {
         </button>
         <button
           className=" bg-secondary h-[55px] sm:h-full text-white text-lg border-2 border-secondary transition-all duration-300 hover:bg-transparent hover:text-secondary"
-          onClick={() => console.log(cart)}
         >
           BUY NOW
         </button>
