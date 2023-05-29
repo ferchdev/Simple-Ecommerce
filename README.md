@@ -4,7 +4,7 @@
 
 <h2>Acerca del proyecto</h2>
 
-  <p>El sitio web <b>Simple Ecommerce</b> es una plataforma de comercio electronico en linea de productos para el hogar y cuidados personales, cuenta con una interfaz moderna e intuitiva diseñado especialmente para que el usuario se sienta comodo navegando y sea facil de usar, Simple Ecommerce esta centrado especificamente en la experiencia del usuario al navegar en la pagina por los diferentes productos. </p>
+  <p>El sitio web <b>Simple Ecommerce</b> es una plataforma de comercio electrónico en línea de productos para el hogar y cuidados personales, cuenta con una interfaz moderna e intuitiva diseñado especialmente para que el usuario se sienta cómodo navegando y sea fácil de usar, Simple Ecommerce está centrado específicamente en la experiencia del usuario al navegar en la página por los diferentes productos. </p>
 
 👉 Live Demo: <a href='https://simple-ecommerce-ecru.vercel.app/'>Live Demo</a>
 
