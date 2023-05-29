@@ -22,7 +22,6 @@ export const Header = () => {
             src={confortably}
             className="w-full h-full object-cover"
             alt="living room image"
-            priority
           />
           <h1 className="absolute left-5 bottom-5 text-white text-xl md:text-4xl z-40">
             Live Comfortably
